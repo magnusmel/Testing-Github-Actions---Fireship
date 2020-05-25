@@ -17,6 +17,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
+    "minimist": ">=0.2.1",
     "firebase-tools": "^7.14.0",
     "terser": "^4.6.6"
   }
