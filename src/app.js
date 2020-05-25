@@ -12,3 +12,4 @@ try {
 exports.dayOfTheWeek = dayOfTheWeek;
 
 console.log("hello, world, from Saif!");
+console.log("Second attempt");
